@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.content {
+
+    display: flex;
+    justify-content: space-between;
+    padding: 6rem;
+   
+}
+
+img {
+
+    width: 400px;
+    height: 400px;
+}
+h3 {
+    margin: 2rem;
+}
